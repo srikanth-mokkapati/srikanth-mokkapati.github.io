@@ -4,7 +4,7 @@
     <title>IT Aanimuthyalu</title>
     <googleplay:owner>srikanth.mokkapati9@gmail.com</googleplay:owner>
     <googleplay:author>IT-Aanimuthyalu</googleplay:author>
-    <language>en-in</language>
+    <language>eng</language>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>India</rawvoice:location>
     <rawvoice:frequency>Bi-Weekly</rawvoice:frequency>
@@ -12,6 +12,7 @@
     <itunes:author>IT-Aanimuthyalu</itunes:author>
     <itunes:email>srikanth.mokkapati9@gmail.com</itunes:email>
     <itunes:category text="Technology" />
+    <googleplay:category text="Technolgy"/>
     <!-- <image> -->
       <!-- <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url> -->
       <!-- <title>IT Aanimuthyalu</title> -->
@@ -33,14 +34,13 @@
       <author>Srikanth Mokkapati</author>
       <itunes:author>Srikanth Mokkapati</itunes:author>
       <title>000 : Intro to Podcast</title>
-      <pubDate>Mon, 07 Sep 2020 08:00:00 IST</pubDate>
+      <pubDate>Monday, 07 Sep 2020 08:00:00 IST</pubDate>
       <enclosure url="https://github.com/srikanthM9/podcastsTrail/blob/master/player/web/audio/test.mp3" type="audio/mpeg" length="330000" />
       <itunes:duration>5:30</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">itap-000</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>
-This is an Intro to the Podcast, What is it about?
-        </description>
+      <googleplay:explicit>no</googleplay:explicit>
+      <description>This is an Intro to the Podcast, What is it about?</description>
     </item>
   </channel>
 </rss>
