@@ -2,7 +2,9 @@
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>IT Aanimuthyalu</title>
+    <googleplay:owner>srikanth.mokkapati9@gmail.com</googleplay:owner>
     <googleplay:author>IT-Aanimuthyalu</googleplay:author>
+    <language>en-in</language>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>India</rawvoice:location>
     <rawvoice:frequency>Bi-Weekly</rawvoice:frequency>
@@ -26,7 +28,7 @@
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 07 Sep 2020 08:00:00 IST</pubDate>
-    <link>https://github.com/srikanthM9/podcastsTrail/blob/master/player/web/feed.xml</link>
+    <link>https://github.com/srikanthM9/podcastsTrail/blob/master</link>
     <!-- <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" /> -->
     <item>
       <author>Srikanth Mokkapati</author>
