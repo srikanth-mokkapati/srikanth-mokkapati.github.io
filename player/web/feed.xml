@@ -8,33 +8,33 @@
     <rawvoice:frequency>Bi-Weekly</rawvoice:frequency>
     <author>IT-Aanimuthyalu</author>
     <itunes:author>IT-Aanimuthyalu</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+    <itunes:email>srikanth.mokkapati9@gmail.com</itunes:email>
     <itunes:category text="Technology" />
-    <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>IT Aanimuthyalu</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
-    </image>
+    <!-- <image> -->
+      <!-- <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url> -->
+      <!-- <title>IT Aanimuthyalu</title> -->
+      <!-- <link>https://rodydavis.github.io/podcast-player/</link> -->
+    <!-- </image> -->
     <itunes:owner>
       <itunes:name>IT Aanimuthyalu</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:email>srikanth.mokkapati9@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>design,development,github,web,Entertainment,timepass</itunes:keywords>
     <copyright>IT Aanimuthyalu Creations 2020</copyright>
     <description>This is a Podcast where we discuss and share our views on different topics, including but not limited to, Software/IT, Movies, Cricket, etc..</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <!-- <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" /> -->
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 07 Sep 2020 08:00:00 IST</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <link>https://github.com/srikanthM9/podcastsTrail/blob/master/player/web/feed.xml</link>
+    <!-- <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" /> -->
     <item>
       <author>Srikanth Mokkapati</author>
       <itunes:author>Srikanth Mokkapati</itunes:author>
       <title>000 : Intro to Podcast</title>
       <pubDate>Mon, 07 Sep 2020 08:00:00 IST</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
+      <enclosure url="https://github.com/srikanthM9/podcastsTrail/blob/master/player/web/audio/test.mp3" type="audio/mpeg" length="330000" />
+      <itunes:duration>5:30</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
