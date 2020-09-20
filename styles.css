@@ -90,11 +90,11 @@ div , footer {
 .container {
 	max-width: 1100px;
 	height: auto;
-	margin: 60px auto;
+	margin: 30px auto;
 }
 
 .hero {
-	margin: 50px auto; 
+	margin: 30px auto; 
 	position: relative;
 }
 
@@ -120,22 +120,40 @@ h1.name {
 	display: block;
 	font-size: 24px;
 	font-weight: 300;
-	color: #81899C;
+	color: #5f6572;
 	margin-top: 10px;
 }
 
-.lead {
-	font-size: 44px;
-	font-weight: 300;
-	margin-top: 60px;
-	line-height: 55px;
+.middle-container {
+	margin: 30px auto;
+	position: relative;
+	background-color: #b8cdec;
+	display: inline-block ;
+	max-width: inherit;
+	border-radius: 10px;
 }
 
-/* .iconDetails {
-	float:right;
-	max-width: 150px;
+.lead {
+	position: relative;
+	float: left;
+	font-size: 44px;
+	font-weight: 300;
+	line-height: 55px;
+	max-width: 75%;
+	max-height: fit-content;
+	text-align: center;
+	margin: 2%;
+}
+
+.iconDetails {
+	position: relative;
+	margin: 2%;
+	float: left;
+	max-width: 25%;
 	max-height: 150px;
-}  */
+	vertical-align: middle;
+	align-content: center;
+} 
 
 /*hero ends*/
 
@@ -145,7 +163,7 @@ h1.name {
 	vertical-align: top;
 	display: inline-block;
 	width: 49.7%;
-	height: 50px;
+	height: auto
 }
 
 .section-title {
@@ -156,11 +174,12 @@ h1.name {
 
 .list-card {
 	margin: 30px 0;
+	height: 120px;
 }
 
 .list-card .exp , .list-card div{
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: middle;
 }
 
 .list-card .exp {
@@ -196,12 +215,12 @@ h1.name {
 .cards {
 	max-width: 1120px;
 	display: block;
-	margin-top: 280px;
+	margin-top: 1%;
 }
 
 .card {
 	width: 47.9%;
-	height: 200px;
+	height: 250px;
 	background-color: #EEF0F7;
 	display: inline-block;
 	margin: 7px 5px;
@@ -376,11 +395,10 @@ li .description {
 
 @media(max-width: 1024px){
 	.container {
-		padding: 15px;
 		margin: 0px auto;
 	}
 	.cards {
-		margin-top: 250px;
+		margin-top: 1%;
 	}
 }
 
